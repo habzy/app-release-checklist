@@ -2,11 +2,11 @@
 
 *RELEASE AUTHORISATION FORM v1.0*
 
-|  |  |
+| Categories | Contents |
 |:-------------------------------------|-------------------------------------:|
-| App name                             |      *insert content*                |
-| Version                              |      *insert content*                |
-| Date of submission                   |      *insert content*           |
+| App name                             |                 |
+| Version                              |                 |
+| Date of submission                   |                 |
 
 This form is to document the testing that has been done on each app
 version before submitting to the App Store. For each item, indicate *Yes*
